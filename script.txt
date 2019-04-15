@@ -1,0 +1,29 @@
+Trabalho Prático de Redes 2019.1
+Aluna: Yohana de Carvalho Horta 
+
+Passo 1 : Ligando o Servidor 
+
+Primeiramente abra o terminal e vá para pasta que contém o arquivo do código do servidor
+
+    - Para iniciar o servidor tem que digitar no terminal:
+        - python servidor.py 'pasta de arquivos' 'número da porta'(opcional)
+
+Pronto, o serivodor está rodando!!
+
+Passo 2: Ligando o Cliente e baixando um arquivo
+
+Para iniciar o cliente, abra o terminal na pasta que contém o código do cliente 
+
+    - Digite no terminal:
+        - python cliente.py 'endereço de ip' 'número da porta'(opcional)
+
+Em seguida, para baixar o arquivo que você deseja digite:
+
+    - get 'nome do arquivo' 
+
+e aperte enter....
+
+O arquivo cópia será baixado na pasta do cliente!!
+
+
+
