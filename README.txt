@@ -1,8 +1,8 @@
 Trabalho Pŕatico de Redes 2019.1 
-ALuno: Yohana de Carvalho Horta 
+Aluno: Yohana de Carvalho Horta 
 
 
-O primeiro trabalho prático consiste em desenvolver um seridor cliente do tipo HTTP.
+O primeiro trabalho prático consiste em desenvolver um servidor cliente do tipo HTTP.
 
 A ideia do programa é transferir dados de um lugar para outro. Ou seja, o cliente vai solicitar uma requisição para o servidor (baixar um arquivo) e o servidor irá mandar o arquivo caso ele exista ou uma mensagem falando que ele não existe. 
 
